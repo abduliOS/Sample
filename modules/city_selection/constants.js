@@ -1,0 +1,4 @@
+export const CITY_LIST_REQUEST = "CITY_LIST_REQUEST";
+export const CITY_LIST_SUCCESS = "CITY_LIST_SUCCESS";
+export const CITY_LIST_FAILURE = "CITY_LIST_FAILURE";
+export const SET_CITY = "SET_CITY";

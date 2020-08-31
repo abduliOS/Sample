@@ -1,0 +1,48 @@
+{
+  "_from": "cashfreereactnativepg",
+  "_id": "cashfreereactnativepg@2.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-LR4qMgWBSRKV6DaiKfEhM/Idm6hKYE3ZR6oJwS5P6sCRD8XZc4D5hCoMyj3+jAHUliSWwRffwOXWybMi+Gb9MA==",
+  "_location": "/cashfreereactnativepg",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "cashfreereactnativepg@2",
+    "name": "cashfreereactnativepg",
+    "escapedName": "cashfreereactnativepg",
+    "rawSpec": "2",
+    "saveSpec": null,
+    "fetchSpec": "2"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cashfreereactnativepg/-/cashfreereactnativepg-2.0.1.tgz",
+  "_shasum": "23618c595e6d13104173e48fc39f3e8f6c8bcb85",
+  "_spec": "cashfreereactnativepg@2",
+  "_where": "/Users/735307/Amjath/AppBox/MoviePanda/MoviePanda",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "prop-types": "^15.7.2"
+  },
+  "deprecated": false,
+  "description": "React Native module for Cashfree's PG integration",
+  "directories": {
+    "test": "test"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "cashfreereactnativepg",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "test": "npm"
+  },
+  "version": "2.0.1"
+}

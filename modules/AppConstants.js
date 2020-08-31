@@ -1,0 +1,13 @@
+export const USER_CITY = 'USER_CITY'
+export const HEADER_CHANNEL = 'HEADER_CHANNEL'
+export const USER_TOKEN = 'USER_TOKEN'
+export const USER_PROFILE = 'USER_PROFILE'
+export const USER_REFRESH_TOKEN = 'USER_REFRESH_TOKEN'
+export const IS_LOGGED_IN = 'IS_LOGGED_IN'
+export const LOGIN_TYPE = 'LOGIN_TYPE'
+export const ANONYMOUS_LOGIN = 'ANONYMOUS_LOGIN'
+export const USER_LOGIN = 'USER_LOGIN'
+export const USER_MOBILE_NO = 'USER_MOBILE_NO'
+
+// 
+export const ANONYMOUS_TOKEN_DATA = 'ANONYMOUS_TOKEN_DATA'

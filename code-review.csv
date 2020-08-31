@@ -1,0 +1,11 @@
+sha,filename,url,lines,title,comment,priority,category,additional
+"4578348ac72b01a387686d34c62b8fab8966a137","/package.json","","1:0-50:0","React Version Upgrade","Upgrading to new versions of React Native will give you access to more APIs, views, developer tools and other goodies. Upgrading requires a small amount of effort, but we try to make it straightforward for you.","","Performance","https://github.com/react-native-community/upgrade-helper"
+"4578348ac72b01a387686d34c62b8fab8966a137","/index.js","","11:0-11:0","Remove Unwanted Code","Memory leaks generated from un unsed code","","",""
+"4578348ac72b01a387686d34c62b8fab8966a137","/package.json","","1:0-50:0","Add Unit Testing for react native","Unit testing is the first line of defence for your codebase and is key to a healthy and maintainable app.","","","https://jestjs.io/docs/en/tutorial-react"
+"4578348ac72b01a387686d34c62b8fab8966a137","/Const.js","","1:0-1:31","Remove Unused file/dependencies ","Check and remove the unused files and dependencies","","","https://stackoverflow.com/questions/31694554/remove-unused-dependencies-in-react"
+"4578348ac72b01a387686d34c62b8fab8966a137","/Header.js","","10:21-10:21","Remove/Avoid inline styles ","Bottom line, use Stylesheet when you can. It will help in the long run and avoid any unnecessary updates from inline to stylesheet.","","","https://medium.com/technofunnel/4-ways-to-add-styles-to-react-component-37c2a2034e3e#:~:text=Disadvantages%20of%20Inline%20Styles%20are%3A%20It%20does%20not,They%20override%20the%20existing%20styles%20of%20the%20component"
+"4578348ac72b01a387686d34c62b8fab8966a137","/root-saga.js","","20:28-20:28","File Structure Should be in formal","Redux is just a data store library, it has no direct opinion on how your project should be structured. However, there are a few common patterns that most Redux developers tend to use:
+
+Rails-style: separate folders for “actions”, “constants”, “reducers”, “containers”, and “components”
+Domain-style: separate folders per feature or domain, possibly with sub-folders per file type
+“Ducks”: similar to domain style, but explicitly tying together actions and reducers, often by defining them in the same file","","Architecture","https://redux.js.org/faq/code-structure"
